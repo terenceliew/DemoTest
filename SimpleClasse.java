@@ -10,6 +10,7 @@ public class SimpleClasse {
 		System.out.println("La somme de " + a + " et " + b + " est : " + sc.somme(a,b) );
 		System.out.println("Un petit changement!");
 		System.out.println("Encore un petit changement!");
+		System.out.println("Dernier changement!!!!!!!!!!!");
 	}
 	
 }
